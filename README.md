@@ -1,4 +1,6 @@
 WanManolo.github.io
 ===================
 
-Host para la tarea2
+This will be my personal website.
+
+Este será my sitio web personal.
