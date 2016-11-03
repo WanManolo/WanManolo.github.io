@@ -1,0 +1,53 @@
+{
+  "data": [{
+    "name": "Social Engineering",
+    "img": "",
+    "level": 50,
+    "description": "I know how to read people gestures and behaviors. I can use this knowledge to prevent potential issues, to provoke them, or even to fix some situations. I also can guide people on how to avoid common mistakes that expose ourselves."
+  }, {
+    "name": "Education Methods",
+    "img": "",
+    "level": 30,
+    "description": "My environment has taught me how to learn and how to teach, specially with young people. I can teach elementary Mathematics, Physics and Spanish Grammar. For the elder, I use to help them to keep up with technologies updates and basic English lessons. I also try to motivate students and elder people to encourage themselves into learning new things like programming languages and simple web development. Therefore, I try to teach programming basic techniques to everyone that asks for it."
+  }, {
+    "name": "Music Production",
+    "img": "",
+    "level": 40,
+    "description": "I'm a former MC. I used to write rap songs, help other's lyrics to fit in tone and compass, and to produce and assist on mastering the mixes. I can read musical notation (classical & american) and also compose my own melodies. I can play the piano and the guitar. Nowdays I don't have the place, nor the time to keep enjoying music production and artist lifestyle, but I keep my ears well fed."
+  }, {
+    "name": "Literature",
+    "img": "",
+    "level": 20,
+    "description": "You can find me often writing some rap lyrics, but I'm also a dedicated writer, in spite of not have anything published. I used to write stories in highschool and I've read a lot of classical Castillian authors' literary works. I didn't win any awards, but I won several competitions, usually for fansites or school related. I help some friends to maintain their blogs, write articles for them or even help them write their resumes or important letters for a job apply."
+  }, {
+    "name": "Computer Science",
+    "img": "",
+    "level": 80,
+    "description": "Well, I'm a Computer Engineer. This is my main skill. This is what I do for the living. At the present time I'm working in France with an international consulting company. I work as a Java & Angular developer. I started some personal projects in the past, but I didn't have the manpower, capital nor expertise to bring it up. I'm still learning new stuff everyday. I'm not planning on getting to doctor, if that's what you're thinking."
+  }, {
+    "name": "Computer Systems",
+    "img": "",
+    "level": 80,
+    "description": "Well, I'm a Computer Addict. This is my lifestyle. As a Computer Engineer I could ignore all the hardware configurations and let them for the techies, but I can't. I love computers and I love to bring them alive. I've managed big computer system, like a bladecenter or a rack server system. I've build my own PCs over the time. I've built my own vigilancy system in my free time. I've also built electronic components to fit in old domestic systems. Since I was 8 years old, I was all day wondering how computers worked. Today, I still wonder how some computers work, but now I make them work better and nicely. I use to help my family and friends with their laptops, smartphones and routers too keep them safe and sound."
+  }, {
+    "name": "Programming Languages",
+    "img": "",
+    "level": 75,
+    "description": "I earn money with this. So, I think I'm not bad at all. Jokes aside, I know deeply these languages: C, C++, PL/SQL, Java, Python, HTML, JavaScript. I know other several languages too, but they're not really used in my current workflow. Besides, I can learn any programming language (except maybe that emoticon programming language, that's kind of creepy). I know the principles of programming languages. I designed my own at the university. I've built a compiler too. I know how things work. Eventually I can find bugs easily or help them get fixed. But, you know, I'm not God."
+  }, {
+    "name": "Security",
+    "img": "",
+    "level": 50,
+    "description": "Ethical Hacking is one of my new skills. I'm spending my free time learning on new vulnerabilities and fixes of my favorite environments. I'm also a concerned citizen, so I help people around me on not getting easily hacked. I'm not a pro here, but I have my contacts that show me little things about this dark and deep world that evolves everyday. I give elemental courses to the elderly and middle age people that surround me that have difficulties to handle themselves in this technological and dangerous world."
+  }, {
+    "name": "Gaming",
+    "img": "",
+    "level": 60,
+    "description": "As you can imagine, I'm an active gamer. Not so active now that I'm living in France, but I still play those dumbass indie games that I love so much. You can find me on Steam or Anook too. I've developed some litte games in Python and Java, but I'm looking forward a bigger project with some 3D designers friends of mine."
+  }, {
+    "name": "Leadership",
+    "img": "",
+    "level": 50,
+    "description": "I can be a leader, if needed. It's not that I'm always trying to be the head of the team, but I have perception and initiative enough to take the reins of the team when someone has to. I know how to delegate responsibilities and how to encourage team members to achieve the team's objectives. It's not something I like to be, but I can lead, and I can do it successfully. I have organization and planning skills that allow the team to get to the point without rushing the day before delivery. I've got experience with different kind of teamwork, but I rather let others take the glory."
+  }]
+}
